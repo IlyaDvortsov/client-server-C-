@@ -1,2 +1,2 @@
-# client-server-C-
-Implementation of a "Client - Server" pair in C++ using sockets and communication via the transport layer protocol - TCP.
+# client-server C++
+Реализация пары "Клиент - Сервер" на языке С++ с использованием сокетов и взаимодействием по протоколу транспортного уровня - TCP.
